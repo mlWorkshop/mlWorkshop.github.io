@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>团队 | 数值气象海洋实验室</title>
+	<link rel="stylesheet" href="./files/style.css" type="text/css" media="all">
+</head>
+
+<body>
+
+	<div class="mainbody">
+
+		<div class="header" style="padding-top:20px; padding-bottom:5px; background:#d2d2d2">
+			<!-- <img id="header-img" src="" width="800px"> -->
+			<center>
+				<img id="profile-img" src="./files/img/profile.jpg"></img>
+				<h1><strong>国防科技大学数值气象海洋实验室</strong></h1>
+			</center>
+		</div>
+
+		<div class="header" style="padding-top:5px; padding-bottom:5px; background:#f2f2f2; color:#999999; font-size:18px">
+			<center>
+				<p>
+					<a href="./index.html">主页</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="./projects.html">项目</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="./publications.html">发表</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="./education.html">教学</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="./team.html">团队</a>
+				</p>
+			</center>
+		</div>
+
+		<div id="content" class="content"></div>
+
+		<div class="header" style="padding-top:20px; padding-bottom:20px; background:#f2f2f2; color:#999999">
+			&#169; <script type="text/javascript">document.write( new Date().getFullYear() );</script> 数值气象海洋实验室.
+		</div>
+	</div>
+
+	<script src="./files/jquery.js"></script>
+	<script src="./files/marked.min.js"></script>
+	<script>
+
+	function parse_query_string() {
+	    var query = window.location.search.substring(1);
+	    var vars = query.split("&");
+	    var query_string = {};
+	    for (var i = 0; i < vars.length; i++) {
+	        var pair = vars[i].split("=");
+	        var key = decodeURIComponent(pair[0]);
+	        var value = decodeURIComponent(pair[1]);
+	        if (typeof query_string[key] === "undefined") {
+	            query_string[key] = decodeURIComponent(value);
+	        } else if (typeof query_string[key] === "string") {
+	            var arr = [query_string[key], decodeURIComponent(value)];
+	            query_string[key] = arr;
+	        } else {
+	            query_string[key].push(decodeURIComponent(value));
+	        }
+	    }
+	    return query_string;
+	}
+
+	var dict = parse_query_string();
+	var person = dict["person"];
+	$.ajax({
+		type:		"get",
+		url:		"./people/"+person+"-personal-page.md",
+		dataType:	"html",
+		success:	function(res) {
+			document.getElementById("content").innerHTML = marked.parse(res);
+		}
+	})
+	</script>
+</body>
+
+</html>
