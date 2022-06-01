@@ -3,7 +3,7 @@
 ## 研究方向
 
 ## 研究成果
-[1] **Zhu, M.**, Leeuwen, P. J. V. , & Zhang, W. . (2018). [Estimating model error covariances using particle filters](/assets/papers/Estimating model error covariances using particle filters zmb.pdf). Quarterly Journal of the Royal Meteorological Society, 144(713).
+[1] **Zhu, M.**, Leeuwen, P. J. V. , & Zhang, W. . (2018). [Estimating model error covariances using particle filters](/assets/papers/Estimating-model-error-covariances-using-particle-filters-zmb.pdf). Quarterly Journal of the Royal Meteorological Society, 144(713).
 
 [2] **Zhu M B**, Zhang W M, Li D L. (2012). [An Atmosphere State Computation System based on Radio Occultation Data](../assets/papers/A-Atmosphere-State-Computation-System-based-on-Radio-Occultation-Data.pdf). ICCIS2012, Chong Qing, China.
 

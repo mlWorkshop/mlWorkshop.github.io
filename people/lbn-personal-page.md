@@ -7,7 +7,7 @@
 
 [1] **刘柏年**，皇群博，张卫民，任开军，曹小群，赵军，[集合背景误差方差中小波阈值去噪方法研究及试验.](../assets/papers/集合背景误差方差中小波阈值去噪方法研究及试验.pdf)物理学报, 2017, 66(02): 89-97.
 
-[2] **Bainian Liu**, Weimin Zhang, Xiaoqun Cao, Yanlai Zhao, Qunbo Huang, Yu Luo. Investigations and Experiments of Variances Filtering Technology in the Ensemble Data Assimilation](../assets/papers/INVESTIGATIONS-AND-EXPERIMENTS-OF-VARIANCES-FILTERING-TECHNOLOGY-IN-THE-ENSEMBLE-DATA-ASSIMILATION.pdf)[J]. Chinese Journal of Geophysics. 2016, 59(1): 33–42. DOI: 10.6038/cjg20150506
+[2] **Bainian Liu**, Weimin Zhang, Xiaoqun Cao, Yanlai Zhao, Qunbo Huang, Yu Luo. [Investigations and Experiments of Variances Filtering Technology in the Ensemble Data Assimilation](../assets/papers/INVESTIGATIONS-AND-EXPERIMENTS-OF-VARIANCES-FILTERING-TECHNOLOGY-IN-THE-ENSEMBLE-DATA-ASSIMILATION.pdf)[J]. Chinese Journal of Geophysics. 2016, 59(1): 33–42. DOI: 10.6038/cjg20150506
 
 [3] **刘柏年**，皇群博，张卫民，曹小群，赵军，赵延来，[集合四维变分资料同化研究进展](../assets/papers/集合四维变分资料同化研究进展.pdf)，气象科技进展, 2016, 6(05): 14-23.
 

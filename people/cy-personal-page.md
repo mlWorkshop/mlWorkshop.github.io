@@ -19,7 +19,7 @@
 
 [6] Shen, M., **Chen, Y**., Wang, P. , & Zhang, W. . (2022). [Assimilating satellite sst/ssh andin-situ t/sprofiles with the localized weighted ensemble kalman filter](../assets/papers/Shen-2022-Assimilation+Satellite+SSTSSH+and+in-situ+TS+Profiles.pdf). Acta Oceanologica Sinica, 41(2), 26-40.
 
-[7] Wang, Pinqiang, Zhu, Mengbin, **Chen, Yan**, & Zhang, Weimin. [Implicit Equal-Weights Variational Particle Smoother.](../assets/papers/Wang-2020-Implicit Equal-Weights Variational P.pdf)  Atmosphere, 2020, 11(4), 338.
+[7] Wang, Pinqiang, Zhu, Mengbin, **Chen, Yan**, & Zhang, Weimin. [Implicit Equal-Weights Variational Particle Smoother.](../assets/papers/Wang-2020-Implicit-Equal-Weights-Variational-P.pdf)  Atmosphere, 2020, 11(4), 338.
 
 
 ## 毕业论文
