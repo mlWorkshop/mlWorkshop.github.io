@@ -10,7 +10,7 @@
 
 [3] **邢德**，皇群博，刘柏年，张卫民，[Assimilation of AMSU-A Microwave Observations Over Land](../assets/papers/Assimilation-of-AMSU-A-MicrowaveObservations-Over-Land.pdf), International Conference on Mechatronics and Intelligent Robotics, 2017.5.20-2017.5.21.
 
-[4] **邢德**，皇群博，刘柏年，张卫民，[A Survey on Microwave Surface Emissivity Retrieval Methods](../assets/papers/A-Survey-on-Microwave-Surface-Emissivity-Retrieval-Methods.pdf), International Conference on Intelligent and Interactive Systems and Applications, 2016.6.25-2016.6.26.
+[4] **邢德**，皇群博，刘柏年，张卫民，[A Survey on Microwave Surface Emissivity Retrieval Methods](../assets/papers/A_Survey_on_Microwave_Surface_Emissivity_Retrieval_Methods.pdf), International Conference on Intelligent and Interactive Systems and Applications, 2016.6.25-2016.6.26.
 
 [5] **Xing, De**，Zhang, Weimin，Huang, Qunbo，Liu, Bainian. [Research on Extreme Learning Machine Algorithm and Its Application to El-Nino/La-Nina Southern Oscillation Model](../assets/papers/Research-on-Extreme-Learning-Machine-Algorithm-and-Its-Application-to-El-Ni-o-La-Ni-a-Southern-Oscillation-Model.pdf), 8th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC), Zhejiang Univ, Hangzhou, PEOPLES R CHINA, 2016.8.27-2016.8.28.
 
