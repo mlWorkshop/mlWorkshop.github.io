@@ -1,6 +1,7 @@
 # 王晓慧
 ---
-* <center>Homepage<a href="http://xiaohuiwang.me" target="_blank">xiaohuiwang.me</a></center>
+
+ <center>Homepage: <a href="http://xiaohuiwang.me" target="_blank">xiaohuiwang.me</a></center>
 
 
 ## 研究方向
