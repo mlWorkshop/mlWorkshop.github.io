@@ -1,4 +1,6 @@
 # 王晓慧
+
+homepage: [xiaohuiwang.me](http://xiaohuiwang.me)
 ---
 
 ## 研究方向
