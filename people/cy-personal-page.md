@@ -1,4 +1,4 @@
-<img src="../files/img/photo/cy.jpeg" width="70" height="100" div align=center />
+<img src="../files/img/photo/cy.jpeg" width="70" height="100" align=center />
 
 # 陈妍
 ---
