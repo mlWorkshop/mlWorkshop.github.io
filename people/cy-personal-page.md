@@ -11,7 +11,7 @@
 
 [2] **Yan Chen**, Weimin Zhang, Mengbin Zhu,2019. [A Localized Weighted Ensemble Kalman Filter for High-Dimensional Systems](../assets/papers/A-Localized-Weighted-Ensemble-Kalman-_Filter-for-High-Dimensional-Systems.pdf)[J].  Quarterly Journal of the Royal Meteorological Society, 2019, 146(726). DOI：10.1002/qj.3685.
 
-[3] **Chen, Yan**, Zhang, Weimin, & Wang, Pinqiang. [An application of the localized weighted ensemble Kalman filter for ocean data assimilation.](../assets/papers/Chen-2020-An application-of-the-localized-weig.pdf)  Quarterly Journal of the Royal Meteorological Society, 2020, 146(732), 3029–3047. doi: 10.1002/qj.3824
+[3] **Chen, Yan**, Zhang, Weimin, & Wang, Pinqiang. [An application of the localized weighted ensemble Kalman filter for ocean data assimilation.](../assets/papers/Chen-2020-An-application-of-the-localized-weig.pdf.pdf)  Quarterly Journal of the Royal Meteorological Society, 2020, 146(732), 3029–3047. doi: 10.1002/qj.3824
 
 [4] Wang Pingqiang, Zhu Mengbin, **Chen Yan**, Zhang Weimin, & Yu Yi (2021). [Ocean satellite data assimilation using the implicit equal-weights variational particle smoother](../assets/papers/Wangpq-2021-Ocean+satellite+data+assimilation+us.pdf),Ocean Modelling,164, https://doi.org/10.1016/j.ocemod.2021.101833.
 
