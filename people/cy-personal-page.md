@@ -1,5 +1,5 @@
 <center>
-<img src="../files/img/photo/cy.jpeg" width="70" height="100" />
+<img src="../files/img/photo/cy.jpeg" width="100" height="140" />
 </center>
 
 # 陈妍
